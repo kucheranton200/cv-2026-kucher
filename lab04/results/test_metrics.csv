@@ -1,0 +1,13 @@
+class,precision,recall,f1,support,model
+Bombay,1.0,1.0,1.0,29,baseline
+Egyptian_Mau,1.0,1.0,1.0,28,baseline
+american_pit_bull_terrier,0.875,0.7241,0.7925,29,baseline
+staffordshire_bull_terrier,0.75,0.8889,0.8136,27,baseline
+macro,0.9062,0.9033,0.9015,113,baseline
+accuracy,0.9027,0.9027,0.9027,113,baseline
+Bombay,1.0,1.0,1.0,29,gradual_aug
+Egyptian_Mau,1.0,1.0,1.0,28,gradual_aug
+american_pit_bull_terrier,0.88,0.7586,0.8148,29,gradual_aug
+staffordshire_bull_terrier,0.7742,0.8889,0.8276,27,gradual_aug
+macro,0.9135,0.9119,0.9106,113,gradual_aug
+accuracy,0.9115,0.9115,0.9115,113,gradual_aug

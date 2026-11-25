@@ -1,0 +1,5 @@
+name,arch,mode,lr,epochs,aug,unfreeze_at,patience,epochs_run,best_epoch,val_loss,val_acc,val_macro_f1,train_sec
+baseline,resnet18,head,0.001,10,False,,,10,10,0.2949,0.9018,0.9018,8.5
+head_aug,resnet18,head,0.001,20,True,,5.0,20,20,0.2432,0.9018,0.9018,19.4
+all_1e-4_aug,resnet18,all,0.0001,20,True,,5.0,20,20,0.2142,0.9286,0.9275,28.4
+gradual_aug,resnet18,gradual,0.001,20,True,4.0,5.0,19,14,0.2071,0.9375,0.9373,25.7

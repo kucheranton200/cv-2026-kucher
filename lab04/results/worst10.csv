@@ -1,0 +1,11 @@
+rank,filename,true,pred,p_true,p_pred,correct,why
+1,american_pit_bull_terrier_17.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.07,0.9171,False,"похожие породы: близкое фенотипическое сходство питбуля и стаффордширского терьера, схожая форма головы и ушей"
+2,american_pit_bull_terrier_89.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.1847,0.7973,False,"похожие породы: крепкое телосложение и окрас, типичные для стаффордширского бультерьера"
+3,american_pit_bull_terrier_1.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.1954,0.7926,False,"качество: снимок сильно затемнён, морда собаки в глубокой тени, мелкие породные детали неразличимы"
+4,staffordshire_bull_terrier_27.jpg,staffordshire_bull_terrier,american_pit_bull_terrier,0.3304,0.662,False,"качество: низкая освещённость и контраст, смазанные детали морды затрудняют классификацию"
+5,staffordshire_bull_terrier_58.jpg,staffordshire_bull_terrier,american_pit_bull_terrier,0.3332,0.6587,False,"нетипичный вид: вертикальный ракурс и поза визуально удлиняют морду собаки, делая её похожей на питбуля"
+6,american_pit_bull_terrier_108.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.3695,0.6225,False,"сцена: собака расположена далеко от камеры, голова занимает малую долю кадра, не хватает детализации"
+7,american_pit_bull_terrier_28.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.4428,0.5468,False,"сцена: собака снята на фоне тёмной растительности, слабое освещение скрывает контуры челюсти"
+8,american_pit_bull_terrier_45.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.4626,0.5223,False,"похожие породы: классический мускулистый силуэт бультерьерной группы, трудноотличимый от стаффордшира"
+9,staffordshire_bull_terrier_49.jpg,staffordshire_bull_terrier,american_pit_bull_terrier,0.4751,0.5165,False,нетипичный вид: светлый пересвеченный фон и ракурс полубоком маскируют ширину груди и черепа стаффорда
+10,american_pit_bull_terrier_43.jpg,american_pit_bull_terrier,staffordshire_bull_terrier,0.4929,0.5002,False,похожие породы: предсказание на грани 50/50 из-за идентичного строения морды и ушей между питбулем и стаффордширом

@@ -1,0 +1,17 @@
+{
+ "variant": 12,
+ "arch": "resnet18",
+ "mode": "head",
+ "lr": 0.001,
+ "epochs": 10,
+ "aug": false,
+ "device": "cuda",
+ "best_epoch": 10,
+ "val_loss": 0.2949,
+ "val_acc": 0.9018,
+ "train_acc_last": 0.9483,
+ "train_sec": 8.5,
+ "sec_per_epoch": 0.8,
+ "params_total": 11178564,
+ "params_trainable": 2052
+}
