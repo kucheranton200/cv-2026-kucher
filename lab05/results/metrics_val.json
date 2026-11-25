@@ -1,0 +1,16 @@
+{
+ "variant": 12,
+ "model": "yolo11n.pt",
+ "epochs": 40,
+ "imgsz": 640,
+ "mAP50": 0.9564,
+ "mAP50_95": 0.8553,
+ "precision": 0.9331,
+ "recall": 0.954,
+ "AP50_95_per_class": {
+  "Bombay": 0.9345,
+  "Egyptian_Mau": 0.8996,
+  "american_pit_bull_terrier": 0.7504,
+  "staffordshire_bull_terrier": 0.8368
+ }
+}
